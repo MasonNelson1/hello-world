@@ -1,2 +1,4 @@
 # hello-world
-his repository is for practicing the GitHub Flow.
+This repository is for practicing the GitHub Flow.
+
+I am Mason Nelson and I am currently attending BSU for computer systems engineering.
